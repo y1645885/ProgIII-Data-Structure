@@ -1,10 +1,8 @@
 
 #include<stdio.h>
-#include <iostream>
-using namespace std;
-int main(){
 
+int main(){
+    // added this comment
     cout<<"Hello World!"<<endl;
-	cout<<"Hello Summer!"<<endl;	
         return 0;
 }
